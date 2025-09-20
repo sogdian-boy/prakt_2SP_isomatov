@@ -41,7 +41,7 @@ int main()
 			char n[36];
 			char p[13];
 			std::cout << std::endl;
-			std::cout << "Add contact, write Name(wihout spaces):\n";
+			std::cout << "Write Name(wihout spaces):\n";
 			std::cin >> n;
 			std::cout << "Write phone number(wihout spaces):\n";
 			std::cin >> p;

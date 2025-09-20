@@ -2,7 +2,6 @@
 #include <iostream>
 
 int main() {
-    int MAX_SIZE = 100;
     char arr[100];
     int lenght = 0;
 
